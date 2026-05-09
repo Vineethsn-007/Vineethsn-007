@@ -1,69 +1,161 @@
-<h1 align="center">Hi 👋, I'm Vineeth</h1>
-<h3 align="center">Engineering student | Web Dev + IoT + AI enthusiast | CS with Blockchain @ PACE</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vineethsn-007&label=Profile%20views&color=0e75b6&style=flat" alt="vineethsn-007" />
-</p>
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vineeth%20S%20N&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Engineering%20Student%20%7C%20Builder%20%7C%20Innovator&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;IoT+%2B+Embedded+Systems+Engineer+%F0%9F%94%A7;AI+%2F+ML+Enthusiast+%F0%9F%A7%A0;Blockchain+Explorer+%E2%9B%93;CS+with+Blockchain+%40+PACE+College" alt="Typing SVG" />
+</a>
 
-### 💻 About Me
+<br/>
 
-- 🚀 I’m currently working on a **Health Monitoring System** using **React**, **Firebase**, and **ML-based disease detection**
-- 💡 Passionate about merging **IoT** hardware with smart software systems
-- 🧠 Always learning — especially in **Web Dev**, **Cybersecurity**, and **AI/ML**
-- 🎯 Goal: Build impactful tech that helps people, from smart gloves to intelligent clinics
-- 📫 Reach me at: **snvineeth10@gmail.com**
+<!-- Profile views + followers badges -->
+<img src="https://komarev.com/ghpvc/?username=vineethsn-007&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/Vineethsn-007?tab=followers">
+  <img src="https://img.shields.io/github/followers/vineethsn-007?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+</a>
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?logo=react) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-
-**Backend & DB:**  
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase) ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
-
-**IoT & Hardware:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) ![ESP8266](https://img.shields.io/badge/-ESP8266-000000?logo=espressif)  
-Sensors: Heartbeat, Temperature & Humidity, IR, Flame, Moisture, Tilt, Ultrasonic, Keypad
-
-**Other:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+</div>
 
 ---
 
-### 🚀 Projects
+## 🧬 About Me
 
-- 🔬 [**MediCore**](https://github.com/vineethsn-007/medicore) – Full-stack online clinic & appointment system with role-based auth  
-- 🌐 [**ICSB Website**](https://github.com/vineethsn-007/icsb-website) – React + TypeScript based official department site  
-- 🧠 Health Monitoring with **Sensor + Firebase + ML model integration**  
-- 🧤 Smart Glove for differently-abled individuals – IoT + Wireless Task Signaling System
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```yaml
+name: Vineeth S N
+location: India 🇮🇳
+education: CS with Blockchain @ PACE College
+currently_building:
+  - Health Monitoring System (React + Firebase + ML)
+  - Smart Glove for differently-abled (IoT + BLE)
+interests:
+  - Full-Stack Web Development
+  - IoT & Embedded Systems
+  - AI / ML & Cybersecurity
+  - Blockchain & Decentralized Systems
+goal: "Build impactful tech that helps people"
+contact: snvineeth10@gmail.com
+```
+
+- 🔭 Currently building a **Health Monitoring System** powered by sensors, Firebase & ML disease detection
+- 🧤 Designing a **Smart Glove** for task signaling by differently-abled individuals
+- ⛓️ Exploring **Blockchain** for real-world decentralized systems (voting, health records)
+- 🌱 Deep diving into **Cybersecurity** and **AI/ML pipelines**
+- ⚡ Fun fact: I connect hardware to the cloud and call it a Tuesday
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,js,nextjs&perline=7" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,express,mongodb&perline=7" />
+
+**IoT & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp&perline=7" />
+
+> Sensors: Heartbeat · Temperature & Humidity · IR · Flame · Moisture · Tilt · Ultrasonic · Keypad · RFID
+
+**AI / ML & Tools**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,linux,vscode,vercel,github&perline=7" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineethsn-007&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethsn-007&layout=compact&theme=radical" />
-</p>
+<div align="center">
+
+| 🔬 Project | 💡 Description | 🛠 Stack |
+|:-----------|:--------------|:--------|
+| [**MediCore**](https://github.com/vineethsn-007/medicore) | Full-stack online clinic & appointment platform with role-based auth (Patient / Doctor / Admin) | React · Firebase · Node.js · MySQL |
+| [**NeuroEase**](https://github.com/Vineethsn-007/neuroease) | AI-powered brain activity analyzer with 3D visualization, glassmorphism UI & real-time analytics | React · Three.js · Framer Motion · Recharts |
+| [**Udhava**](https://github.com/Vineethsn-007/udhava-abra_code_abra) | RFID-based decentralized voting system fusing IoT with blockchain for tamper-proof elections | JavaScript · RFID · Blockchain |
+| **Health Monitor** | IoT sensor array → Firebase → ML model pipeline for real-time disease risk detection | React · Firebase · Python · ESP8266 |
+| **Smart Glove** | Wearable IoT glove enabling wireless task signaling for differently-abled individuals | Arduino · ESP8266 · BLE · C++ |
+| [**ICSB Website**](https://github.com/vineethsn-007/icsb-website) | Official department website with modern React + TypeScript architecture | React · TypeScript · Tailwind CSS |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vineethsn-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethsn-007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethsn-007&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vineethsn-007&theme=gruvbox&column=4&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineethsn-007&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vineethsn-007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%"/>
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat)](https://www.linkedin.com/in/vineethsn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://vineethsn-007.github.io)
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/vineethsn">
+  <img src="https://img.shields.io/badge/LinkedIn-Vineeth%20S%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://vineethsn-007.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-vineethsn--007.github.io-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:snvineeth10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-snvineeth10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Snake animation — set this up via GitHub Actions (see note below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vineethsn-007/vineethsn-007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vineethsn-007/vineethsn-007/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/vineethsn-007/vineethsn-007/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
