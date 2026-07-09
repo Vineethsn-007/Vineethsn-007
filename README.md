@@ -101,7 +101,7 @@ IoT-based health monitoring platform integrating sensors, Firebase, and machine 
 ### Smart Glove for Assistive Communication
 Wearable IoT glove that enables differently-abled users to communicate predefined signals wirelessly.
 
-**Tech Stack:** Arduino, ESP8266, BLE, C++
+**Tech Stack:** Arduino, ESP8266, C++
 
 ---
 
