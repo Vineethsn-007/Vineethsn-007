@@ -129,7 +129,7 @@ Wearable IoT glove that enables differently-abled users to communicate predefine
   [linkedin.com/in/vineethsn](https://www.linkedin.com/in/vineethsn)
 
 - Portfolio:  
-  [vineethsn-007.github.io](https://vineethsn-007.github.io)
+  [vineethsn.dev](https://vineethsn.dev)
 
 - Email:  
   [snvineeth10@gmail.com](mailto:snvineeth10@gmail.com)
